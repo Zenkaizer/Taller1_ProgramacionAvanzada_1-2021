@@ -1,0 +1,23 @@
+Guetti,yuumiMain,50,soporte,inferior,4
+Yuumi,1000000,200,150
+Senna,250000,80,70
+Soraka,70000,50,30
+Jhin,4444,4,4
+Italo,fakerdelas,75,superior,jungla,5
+Fiora,42450,30,15
+Volibear,33056,28,29
+Garen,22505,20,19
+Kayn,15000,10,15
+Warwick,3000,1,9
+MomoDes,cajita?,60,jungla,soporte,2
+Shaco,70000,66,44
+Hecarim,36750,30,15
+Equalicer,cu4tro,25,superior,inferior,3
+Volibear,60000,70,60
+Gnar,40000,40,42
+Jhin,70000,44,4
+JugadorGenerico,OTPYasuo,0,jungla,superior,1
+Yasuo,1000,0,1
+Pibot,veigaradc,100,central,inferior,2
+Aurelion Sol,150190,150,100
+Veigar,65627,60,30

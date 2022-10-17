@@ -1,0 +1,151 @@
+Aatrox,la Espada Darkin,luchador,superior
+Ahri,la Vastaya de Nueve Colas,mago,central
+Akali,la Asesina Furtiva,asesino,central
+Alistar,el Minotauro,tanque,soporte
+Amumu,la Momia Triste,tanque,jungla
+Anivia,la Criofenix,mago,central
+Annie,la Hija de la Oscuridad,mago,central
+Aphelios,el Arma de los Adeptos,tirador,inferior
+Ashe,la Arquera de Hielo,tirador,tirador
+Aurelion Sol,el Forjador de Estrellas,mago,central
+Azir,el Emperador de las arenas,mago,central
+Bardo,el Guardian Trotamundos,mago,soporte
+Blitzcrank,el Gran Golem de Vapor,tanque,soporte
+Brand,la Venganza Ardiente,mago,soporte
+Braum,el Corazon del Freljord,tanque,soporte
+Caitlyn,la Sheriff de Piltover,tirador,inferior
+Camille,la Sombra de Acero,luchador,superior
+Cassiopeia,el Abrazo de la Serpiente,mago,central
+Cho'Gath,el Terror del Vacio,tanque,central
+Corki,el Bombardero Osado,tirador,central
+Darius,la Mano de Noxus,luchador,superior
+Diana,el Desden de la Luna,luchador,central
+Dr. Mundo,el Loco de Zaun,tanque,superior
+Draven,el Glorioso Ejecutor,tirador,inferior
+Ekko,el Joven que Fragmento el Tiempo,mago,central
+Elise,la Reina de las Aranias,mago,jungla
+Evelynn,El Abrazo de la Agonia,mago,jungla
+Ezreal,el Explorador Prodigo,tirador,tirador
+Fiddlesticks,el Terror Ancestral,mago,jungla
+Fiora,la Gran Duelista,luchador,superior
+Fizz,el Bromista de las Mareas,mago,central
+Galio,el Coloso,tanque,central
+Gangplank,el Azote de los Mares,luchador,superior
+Garen,el Poder de Demacia,luchador,superior
+Gnar,el Eslabon Perdido,tanque,superior
+Gragas,el Revoltoso,luchador,jungla
+Graves,el Forajido,tirador,jungla
+Hecarim,la Sombra de la Guerra,luchador,jungla
+Heimerdinger,el Venerable Inventor,mago,central
+Illaoi,la Sacerdotista del Kraken,luchador,superior
+Irelia,la Cuchilla Danzante,luchador,superior
+Ivern,el Arbol Padre,mago,jungla
+Janna,la Furia de la Tormenta,mago,soporte
+Jarvan IV,el Ejemplo de Demacia,luchador,jungla
+Jax,el Maestro de Armas,luchador,superior
+Jayce,el Defensor del Maniana,luchador,superior
+Jhin,el Virtuoso,tirador,inferior
+Jinx,la Bala Perdida,tirador,inferior
+Kai'Sa,la Hija del Vacio,tirador,inferior
+Kalista,el Espiritu de la Venganza,tirador,inferior
+Karma,la Iluminada,mago,soporte
+Karthus,el Canto de la Muerte,mago,jungla
+Kassadin,el Caminante del Vacio,mago,central
+Katarina,la Daga Siniestra,asesino,central
+Kayle,la Justiciera,luchador,superior
+Kayn,el Segador Sombrio,asesino,jungla
+Kennen,el Corazon de la Tempestad,mago,superior
+Kha'Zix,el Saqueador del Vacio,asesino,jungla
+Kindred,los Cazadores Eternos,tirador,jungla
+Kled,el Jinete Cascarrabias,luchador,superior
+Kog'Maw,la Boca del Abismo,tirador,inferior
+LeBlanc,la Maquiavelica,mago,central
+Lee Sin,el Monje Ciego,luchador,jungla
+Leona,el Radiante Amanecer,tanque,soporte
+Lillia,la Flor Timida,mago,jungla
+Lissandra,la Bruja de Hielo,mago,central
+Lucian,el Purificador,tirador,inferior
+Lulu,la Hechizera Hadistica,mago,soporte
+Lux,la Dama Luminosa,mago,soporte
+Malphite,el Fragmento del Monolito,tanque,superior
+Malzahar,el Profeta del Vacio,mago,central
+Maokai,el Treant Retorcido,tanque,superior
+Maestro Yi,la Espada Wuju,luchador,jungla
+Miss Fortune,la Cazarrecompenzas,tirador,inferior
+Mordekaiser,el Renacido de Hierro,luchador,superior
+Morgana,la Desolada,mago,soporte
+Nami,la Invocadora de Mareas,mago,soporte
+Nasus,el Curador de las Arenas,luchador,superior
+Nautilus,el Titan de las Profundidades,tanque,soporte
+Neeko,la Camaleon Curiosa,mago,central
+Nidalee,la Cazadora Salvaje,mago,jungla
+Nocturne,la Pesadilla Eterna,asesino,jungla
+Nunu y Willump,el Ninio y su Yeti,tanque,jungla
+Olaf,el Berserker,luchador,jungla
+Orianna,la Doncella Mecanica,mago,central
+Ornn,el Fuego Debajo de la Montaña,tanque,superior
+Pantheon,la Lanza Inquebrantable,luchador,central
+Poppy,la Guardiana del Martillo,tanque,superior
+Pyke,el Destripador del Muelle Rojo,asesino,soporte
+Qiyana,la Emperatriz de los Elementos,asesino,central
+Quinn,las Alas de Demacia,tirador,superior
+Rakan,el Encantador,mago,soporte
+Rammus,el Armadurillo,tanque,tanque
+Rek'Sai,la Excavadora del Vacio,luchador,jungla
+Rell,la Doncella de Hierro,tanque,soporte
+Renekton,el Carnicero de las Arenas,luchador,superior
+Rengar,el Orgullo Acechante,asesino,jungla
+Riven,la Desterrada,luchador,superior
+Rumble,la Amenaza Mecanica,luchador,superior
+Ryze,el Mago Runico,mago,central
+Samira,la Rosa del Desierto,tirador,inferior
+Sejuani,la Ira del Invierno,tanque,jungla
+Senna,la Redentora,tirador,soporte
+Seraphine,la Cantante Soniadora,mago,soporte
+Sett,el Jefe,luchador,superior
+Shaco,el Bufon Siniestro,asesino,jungla
+Shen,el Ojo del Crepusculo,tanque,superior
+Shyvana,la Hija del Dragon,mago,jungla
+Singed,el Quimico Loco,mago,superior
+Sion,el Coloso no Muerto,tanque,superior
+Skarner,la Vanguardia de Cristal,tanque,jungla
+Sona,la Virtuosa de las Cuerdas,mago,soporte
+Soraka,la Hija de las Estrellas,mago,soporte
+Swain,el Gran General de Noxus,mago,soporte
+Sylas,el Usurpador,mago,central
+Syndra,la Soberana Oscura,mago,central
+Tamh Kench,el Rey del Rio,tanque,superior
+Taliyah,la Tejedora de Piedra,mago,jungla
+Talon,la Sombra de la Navaja,asesino,central
+Taric,el Escudo de Valoran,tanque,soporte
+Teemo,el Explorador Veloz,tirador,superior
+Thresh,el Carcelero Implacable,tanque,soporte
+Tristana,la Artillera Yordle,tirador,inferior
+Trundle,el Rey de los Troles,tanque,jungla
+Tryndamere,el Rey Barbaro,luchador,superior
+Twisted Fate,el Maestro de las Cartas,mago,central
+Twitch,la Rata Mutante,tirador,inferior
+Udyr,el Cambiapieles,luchador,jungla
+Urgot,el Temerario,luchador,superior
+Varus,la Flecha del Castigo,tirador,inferior
+Vayne,la Cazadora Nocturna,tirador,inferior
+Veigar,el Pequeño Maestro del Mal,mago,central
+Vel'Koz,el Ojo del Vacio,mago,soporte
+Vi,la Vigilante de Piltover,luchador,jungla
+Viego,el Rey Arruinado,luchador,jungla
+Viktor,el Heraldo Mecanico,mago,central
+Vladimir,el Segador Carmesi,mago,central
+Volibear,la Tormenta Implacable,luchador,jungla
+Warwick,la Furia Desatada de Zaun,luchador,jungla
+Wukong,el Rey de los monos,luchador,jungla
+Xayah,la Rebelde,tirador,inferior
+Xerath,el Mago Ascendente,mago,soporte
+Xin Zhao,el Senescal de Demacia,luchador,jungla
+Yasuo,el Imperdonable,luchador,central
+Yone,el Imborrable,luchador,central
+Yorick,el Pastor de Almas,luchador,superior
+Yuumi,la Gatita Magica,mago,soporte
+Zac,el Arma Secreta,tanque,jungla
+Zed,el Maestro de las Sombras,asesino,central
+Ziggs,el Experto en Hexplosivos,mago,central
+Zyra,el Despertar de las Espinas,mago,soporte
