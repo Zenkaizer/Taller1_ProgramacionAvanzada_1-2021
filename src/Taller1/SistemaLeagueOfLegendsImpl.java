@@ -99,7 +99,7 @@ public class SistemaLeagueOfLegendsImpl implements SistemaLeagueOfLegends {
     public void asociarCampeonInv(String nombreCampeon, int puntosMaestria, int cantVictorias, int cantDerrotas, String nombreInv) {
         for (int i = 0; i < this.listaInvocador.getCantInvocador(); i++) {
             if (this.listaInvocador.getVecInvocador()[i].getNombreInv().equals(nombreInv)){
-                CampeonInv  campeonInv = new CampeonInv(nombreCampeon, puntosMaestria, cantVictorias, cantDerrotas);
+                CampeonInv campeonInv = new CampeonInv(nombreCampeon, puntosMaestria, cantVictorias, cantDerrotas);
                 this.listaInvocador.getVecInvocador()[i].getListaCampeonInv().agregarCampeonInv(campeonInv);
             }
         }
@@ -699,7 +699,7 @@ public class SistemaLeagueOfLegendsImpl implements SistemaLeagueOfLegends {
     public boolean buscarCampeon(String nombreCampeon) {
 
         for (int i = 0; i < listaCampeon.getCantCampeones(); i++) {
-            if (listaCampeon.getVecCampeones()[i].getNombreCampeon().equalsIgnoreCase(nombreCampeon)){
+            if (listaCampeon.getVecCampeones()[i].getNombreCampeon().equals(nombreCampeon)){
                 return true;
             }
         }
@@ -714,7 +714,7 @@ public class SistemaLeagueOfLegendsImpl implements SistemaLeagueOfLegends {
     @Override
     public boolean verificarNombreCampeon(String nombreCampeon) {
         for (int i = 0; i < this.invocador.getListaCampeonInv().getCantCampeonInv(); i++) {
-            if (this.invocador.getListaCampeonInv().getVecCampeonInv()[i].getNombreCampeon().equalsIgnoreCase(nombreCampeon)){
+            if (this.invocador.getListaCampeonInv().getVecCampeonInv()[i].getNombreCampeon().equals(nombreCampeon)){
                 return false;
             }
         }
@@ -842,6 +842,16 @@ public class SistemaLeagueOfLegendsImpl implements SistemaLeagueOfLegends {
 
         return vecPos;
     }
+
+    public String obtenerNombreInvocador(String nombreProvisional){
+        for (int i = 0; i < this.listaCampeon.getCantCampeones(); i++) {
+            if (this.listaCampeon.getVecCampeones()[i].getNombreCampeon().equals(nombreProvisional)){
+                return this.listaCampeon.getVecCampeones()[i].getNombreCampeon();
+            }
+        }
+        return "";
+    }
+
 
     //endregion
 }

@@ -21,3 +21,10 @@ Yasuo,1000,0,1
 Pibot,veigaradc,100,central,inferior,2
 Aurelion Sol,150190,150,100
 Veigar,65627,60,30
+Marxx,hola123,730,inferior,soporte,6
+Ashe,55500,14,3
+Katarina,6100,3,1
+Maestro Yi,600,0,2
+Kennen,100,0,1
+Karma,100,0,1
+Jinx,1000,1,1

@@ -55,16 +55,6 @@ public class Invocador {
         this.puntosLiga = puntosLiga;
         this.listaCampeonInv = new ListaCampeonInv();
     }
-
-    public Invocador(String nombreInv, String posPrincipal, String posSecundaria, int puntosLiga) {
-        this.nombreInv = nombreInv;
-        this.posPrincipal = posPrincipal;
-        this.posSecundaria = posSecundaria;
-        this.puntosLiga = puntosLiga;
-        this.listaCampeonInv = new ListaCampeonInv();
-    }
-
-
     //endregion
 
 

@@ -31,28 +31,10 @@ public class Main {
     public static void cargarArchivoInvocadores(SistemaLeagueOfLegends sistema) throws IOException{
         ArchivoEntrada archivoEntrada = new ArchivoEntrada("invocadores.txt");
         while(!archivoEntrada.isEndFile()){
-
-            int miric;
-
             Registro registroEntrada = archivoEntrada.getRegistro();
 
             String nombreInv = registroEntrada.getString();
             String contrasenia = registroEntrada.getString();
-
-            try{
-                miric = Integer.parseInt(registroEntrada.getInt());
-
-                int cantPaginas = miric;
-
-
-            }catch(Exception e){
-
-                String genero2 = registroEntrada.getString();
-                int cantPaginas = registroEntrada.getInt();
-
-            }
-
-
             int puntosLiga = registroEntrada.getInt();
             String posPrincipal = registroEntrada.getString();
             String posSecundaria = registroEntrada.getString();
@@ -159,7 +141,7 @@ public class Main {
         String contraseniaUsuario = StdIn.readLine();
 
         if (sistema.iniciarSesion(nombreUsuario, contraseniaUsuario)){
-            //Si el sistema acepta el inicio de sesion del impl, entonces entra a los menú de abajo.
+            //Si el sistema acepta el inicio de sesion del impl, entonces entra al menú de abajo.
 
             StdOut.println("\n¡Inicio de sesión exitoso!\n");
 
@@ -269,7 +251,6 @@ public class Main {
         StdOut.print("Ingrese el nombre del campeón: ");
         String campeonSolicitado = StdIn.readLine();
 
-        sistema.verificarNombreCampeon(campeonSolicitado);
         if (sistema.buscarCampeon(campeonSolicitado)){
             if (sistema.verificarNombreCampeon(campeonSolicitado)){
                 sistema.asociarCampeonInv(campeonSolicitado,0,0,0, sistema.obtenerNombreInvLog());

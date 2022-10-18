@@ -6,7 +6,7 @@ Amumu,la Momia Triste,tanque,jungla
 Anivia,la Criofenix,mago,central
 Annie,la Hija de la Oscuridad,mago,central
 Aphelios,el Arma de los Adeptos,tirador,inferior
-Ashe,la Arquera de Hielo,tirador,tirador
+Ashe,la Arquera de Hielo,tirador,inferior
 Aurelion Sol,el Forjador de Estrellas,mago,central
 Azir,el Emperador de las arenas,mago,central
 Bardo,el Guardian Trotamundos,mago,soporte
@@ -25,7 +25,7 @@ Draven,el Glorioso Ejecutor,tirador,inferior
 Ekko,el Joven que Fragmento el Tiempo,mago,central
 Elise,la Reina de las Aranias,mago,jungla
 Evelynn,El Abrazo de la Agonia,mago,jungla
-Ezreal,el Explorador Prodigo,tirador,tirador
+Ezreal,el Explorador Prodigo,tirador,inferior
 Fiddlesticks,el Terror Ancestral,mago,jungla
 Fiora,la Gran Duelista,luchador,superior
 Fizz,el Bromista de las Mareas,mago,central

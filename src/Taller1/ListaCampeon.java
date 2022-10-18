@@ -45,15 +45,6 @@ public class ListaCampeon {
         return this.vecCampeones[posicion];
     }
 
-    public boolean eliminar(int pos){
-
-        vecCampeones[pos] = null;
-        for (int i = pos; i < cantCampeones; i++) {
-            if ((pos+1) > (cantMax - 1)){
-                vecCampeones[i] = vecCampeones[i + 1];
-            }
-        }
-    }
 
 
 
