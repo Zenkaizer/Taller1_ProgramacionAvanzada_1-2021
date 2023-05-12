@@ -1,4 +1,4 @@
-# Taller1_ProgramacionAvanzada_1-2021
+# Taller1 ProgramacionAvanzada 1-2021
 
 Taller sobre League of Legends diseñado por Marcelo Céspedes.
 
